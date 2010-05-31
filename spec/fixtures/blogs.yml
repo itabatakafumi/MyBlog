@@ -1,0 +1,7 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+kakutani:
+  id: 1
+  name: 角谷HTML化計画
+moro:
+  id: 2
+  name: moroの日記

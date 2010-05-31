@@ -1,0 +1,18 @@
+kakutani_earliest:
+  id: 1
+  blog_id: 1
+  title: "tDiary にしてみる。"
+  body: "たぶん私にハイパー日記はオーバースペックなのだ。しばらくこっちでやってみようと思う。"
+  posted_on: 2001-07-06
+kakutani_latest:
+  id: 2
+  blog_id: 1
+  title: "Re:「autotest が止まらない。」"
+  body: "私も気がつくと AutoTest::Screen で Ctrl+C 2 回で止まらなくなりました..."
+  posted_on: 2007-09-12
+moro_rspec_upgrading:
+  id: 3
+  blog_id: 2
+  title: "[rspec] RSpec を 0.8.x から 1.0.x にあげる際のポイントメモ"
+  body: " RSpec は長らく 0.X リリースが続いており、API の変更がなされていました。..."
+  posted_on: 2007-06-24
